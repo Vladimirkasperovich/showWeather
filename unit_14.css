@@ -1,0 +1,54 @@
+.text-center {
+    text-align: center;
+}
+
+.block {
+    border: 5px solid #000;
+    background-color: blue;
+    width: 200px;
+    margin-top: 50px;
+}
+
+.city-name {
+    background-color: blue;
+    text-align: center;
+}
+#city-select{
+    width: 210px;
+}
+
+.out-name {
+    color: aliceblue;
+    font-weight: 900;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+}
+
+.temperature {
+    color: aliceblue;
+    font-weight: 900;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+}
+
+.description {
+    color: aliceblue;
+    font-weight: 900;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+}
+
+.wind-direction {
+    color: aliceblue;
+    font-weight: 900;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+}
+
+.wind-speed {
+    color: aliceblue;
+    font-weight: 900;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+}
+
+.pressure {
+    color: aliceblue;
+    font-weight: 900;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+}
